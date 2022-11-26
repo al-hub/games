@@ -6,7 +6,7 @@
 - 무기
   - [적사자+자비단검](https://www.youtube.com/watch?v=bClIYzm5_vs)
   - 접목된비룡
-  - 그랑삭스(원거리)[모드](https://www.youtube.com/watch?v=pc_PdGXEb7U)
+  - 그랑삭스(원거리)[모드](https://www.youtube.com/watch?v=pc_PdGXEb7U) [PC](https://www.nexusmods.com/eldenring/mods/1294)
   - [난격+그레이트스타즈](https://www.youtube.com/watch?v=oUjOy8T7Kf8)
   - [관통찌르기+그레이트에페](https://youtu.be/m1zKMFEY_oY)
   - [시산혏하](https://www.youtube.com/watch?v=z64nmEUYXpA)
