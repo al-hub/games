@@ -5,8 +5,10 @@
 - lv200 이상부터 재미 ( 룬 노가다, 절벽 칼질 5시간이상 - - )
 - 양잡 : Y+L1
 - 무기
+  - 범용: 밤불검, 서리밟기
+  
   - [적사자+자비단검](https://www.youtube.com/watch?v=bClIYzm5_vs)
-  - [시산혏하](https://www.youtube.com/watch?v=z64nmEUYXpA)
+  - [시산혈하](https://www.youtube.com/watch?v=z64nmEUYXpA)
   
   - [할복+접목된비룡](https://www.youtube.com/watch?v=M8zvdS4iaSM)
   - [사자베기+그레이트소트](https://www.youtube.com/watch?v=KFfJV5uuurQ)
@@ -20,7 +22,7 @@
   - [관통찌르기+그레이트에페](https://youtu.be/m1zKMFEY_oY)
   - [흑검](https://www.youtube.com/watch?v=aA-JVWSCd10)
   - [뇌운의모습 용왕의대자검](https://www.youtube.com/watch?v=eQd6gtphbTI)
-  - 범용: 밤불검, 서리밟기, 월은, 천사낫, 그레이트소드
+  - 월은, 천사낫, 그레이트소드
   
 ## rdr2 (red dead redemption)
 - openworld rpg
