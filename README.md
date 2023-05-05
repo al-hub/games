@@ -31,7 +31,7 @@
     - [관통찌르기+그레이트에페](https://youtu.be/m1zKMFEY_oY)
     - [흑검](https://www.youtube.com/watch?v=aA-JVWSCd10)
     - [뇌운의모습 용왕의대자검](https://www.youtube.com/watch?v=eQd6gtphbTI)
-    - [비문자](https://www.youtube.com/watch?v=noV0miGeAOY) [파타](https://www.youtube.com/watch?v=MmPLe2ier5A)
+    - [비문자](https://www.youtube.com/watch?v=MmPLe2ier5A) [파타](https://www.youtube.com/watch?v=noV0miGeAOY)
     - 월은, 천사낫, 그레이트소드
   
 ## rdr2 (red dead redemption)
