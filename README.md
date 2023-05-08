@@ -27,7 +27,7 @@
     - [바레의 꽃다발](https://www.youtube.com/watch?v=P-Se3m71img)
     
   - 기타
-    - [1.09 명탈권, 촛대](https://www.youtube.com/watch?v=555sZ4Zv2DA)
+    - [1.09 명탈권+산채도끼, 촛대](https://www.youtube.com/watch?v=555sZ4Zv2DA)
     - [관통찌르기+그레이트에페](https://youtu.be/m1zKMFEY_oY)
     - [흑검](https://www.youtube.com/watch?v=aA-JVWSCd10)
     - [뇌운의모습 용왕의대자검](https://www.youtube.com/watch?v=eQd6gtphbTI)
