@@ -1,5 +1,11 @@
 # games
 
+## stem
+[mimized](https://www.reddit.com/r/Steam/comments/dbohal/how_can_i_start_up_steam_minimized/)
+"C:\Program Files (x86)\Steam\Steam.exe"  -nochatui -nofriendsui -silent
+
+
+
 ## elden ring  
 - openworld rpg
 - lv200 이상부터 재미 ( 룬 노가다, 절벽 칼질 5시간이상 - - )
@@ -40,3 +46,5 @@
 
 ## hades
 - actoin rpg
+
+
