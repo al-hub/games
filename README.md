@@ -3,11 +3,11 @@
 ## stem
 [mimized](https://www.reddit.com/r/Steam/comments/dbohal/how_can_i_start_up_steam_minimized/)
 "C:\Program Files (x86)\Steam\Steam.exe"  -nochatui -nofriendsui -silent
-
+```
 "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\steam"
 Full key in my case ended up being:
 "D:\Steam\steam.exe" -nochatui -nofriendsui -silent
-
+```
 
 ## elden ring  
 - openworld rpg
