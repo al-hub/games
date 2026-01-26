@@ -1,4 +1,8 @@
-# games
+# GAMGES
+
+## BG3
+
+## GTA5
 
 ## dave the diver
 [DAVE THE DIVER](https://pressmintrocket.oopy.io/dave_the_diver_kr)
