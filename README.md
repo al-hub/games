@@ -1,6 +1,10 @@
-# GAMGES
+# GAMES
+
+## 클레르 옵스퀴르 33 expansion
 
 ## BG3
+
+## Death Stranding
 
 ## GTA5
 
@@ -16,7 +20,7 @@ Full key in my case ended up being:
 "D:\Steam\steam.exe" -nochatui -nofriendsui -silent
 ```
 
-## elden ring  
+## Elden Ring  
 - openworld rpg
 - lv200 이상부터 재미 ( 룬 노가다, 절벽 칼질 5시간이상 - - )
 - 양잡 : Y+L1
@@ -50,11 +54,11 @@ Full key in my case ended up being:
     - [비문자](https://www.youtube.com/watch?v=MmPLe2ier5A) [파타](https://www.youtube.com/watch?v=noV0miGeAOY)
     - 월은, 천사낫, 그레이트소드
   
-## rdr2 (red dead redemption)
+## 레데리2 (Red Dead Redemption)
 - openworld rpg
 
 
-## hades
+## Hades
 - actoin rpg
 
 
