@@ -1,28 +1,20 @@
 # GAMES
 
 ## 클레르 옵스퀴르 33 expansion
-- 프랑스문화(쀠땅), jprg + parrying, 픽토스-루미나, 스프롱(왼쪽아래,남쪽), 구스타프는 조연
-
+- jprg + parrying, 쀠땅, 픽토스루미나, 마엘스탕달, 스프롱남서쪽, 조연구스타프
 
 ## BG3
+- TRPG(CRPG), D&D주사위, 일리시드올챙이, 아스테리온소매치기, 레이젤은검짱(떨어트리기), 포션던지기, 드림가디언황제
 
 ## Death Stranding
+- 택배워킹시뮬, 카이랄아메리카, L2R2균형/BT숨참기/블러드그레네이드/볼라건, 사다리·로프·집라인, 좋아요도로공사, 길위의LowRoar, BB루/클리프아빠
 
 ## GTA5
-
-## dave the diver
-[DAVE THE DIVER](https://pressmintrocket.oopy.io/dave_the_diver_kr)
-
-## stem
-[mimized](https://www.reddit.com/r/Steam/comments/dbohal/how_can_i_start_up_steam_minimized/)
-"C:\Program Files (x86)\Steam\Steam.exe"  -nochatui -nofriendsui -silent
-```
-"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\steam"
-Full key in my case ended up being:
-"D:\Steam\steam.exe" -nochatui -nofriendsui -silent
-```
+- 도시오픈월드, 로스산토스, 마이클/프랭클린/트레버, 포트잔쿠도, 레스터주식암살, 버자드헬기, 브래드무덤
 
 ## Elden Ring  
+- 다크소울, 틈새의땅(중세풍)/트리가드, 페링/구르기/영체소환, 모그원/룬절벽칼질5시간, 전회날먹(서리밟기,할복,적사자의화염,피의참격/용찬부패브레스, 라다곤=마리카
+
 - openworld rpg
 - lv200 이상부터 재미 ( 룬 노가다, 절벽 칼질 5시간이상 - - )
 - 양잡 : Y+L1
@@ -57,10 +49,22 @@ Full key in my case ended up being:
     - 월은, 천사낫, 그레이트소드
   
 ## 레데리2 (Red Dead Redemption)
-- openworld rpg
-
+- 서부오픈월드, 반더린드갱단, 윤활/강장제/데드아이/이글아이/랭커스터, 이사벨라호수/화이트아라비안, 더치망상·아서결핵·존계승
 
 ## Hades
 - actoin rpg
 
+## dave the diver
+[DAVE THE DIVER](https://pressmintrocket.oopy.io/dave_the_diver_kr)
 
+## stem
+[mimized](https://www.reddit.com/r/Steam/comments/dbohal/how_can_i_start_up_steam_minimized/)
+"C:\Program Files (x86)\Steam\Steam.exe"  -nochatui -nofriendsui -silent
+```
+"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\steam"
+Full key in my case ended up being:
+"D:\Steam\steam.exe" -nochatui -nofriendsui -silent
+```
+
+## TBD
+장르, 세계관, 게임시스템, 대표기술, 공략, 스포
