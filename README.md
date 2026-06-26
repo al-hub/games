@@ -52,9 +52,11 @@
 - 서부오픈월드, 반더린드갱단, 윤활/강장제/데드아이/이글아이/랭커스터, 이사벨라호수/화이트아라비안, 더치망상·아서결핵·존계승
 
 ## Hades
-- actoin rpg
+- 액션RPG, 지옥탈출런, 은혜빌드·망치강화·거울성장, 아테나대쉬, 죽음저항, 엄마페르세포네
 
-## dave the diver
+## Dave the Diver
+- 낮작살밤초밥, 블루홀, 산소인벤압박, 상어스시, 반쵸업글, 드론참치, 어인족문명
+
 [DAVE THE DIVER](https://pressmintrocket.oopy.io/dave_the_diver_kr)
 
 ## stem
