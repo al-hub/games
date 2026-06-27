@@ -1,7 +1,7 @@
 # GAMES
 
 ## Candidate
-- **The Witcher 3**, **Assassin’s Creed Unity**, Zelda BOTW, TOK, **God of War Ragnarok**, **Sekiro**, **The Last of Us Part II**, It Takes Two, Astro Bot, Dragon Age Inquisition, Overwatch, **Marvel’s Spider-Man 2** , Bloodborne, Metal Gear Solid V,  Ghost of Tsushima, Alan Wake II, Control, Balatro, Monster Hunter: World, Metaphor: ReFantazio
+- **The Witcher 3**, **Assassin’s Creed Unity**, Zelda BOTW, TOK, **God of War Ragnarok**, **Sekiro**, **The Last of Us Part II**, It Takes Two, Astro Bot, Dragon Age Inquisition, Overwatch, **Marvel’s Spider-Man 2** , **Bloodborne**, **Metal Gear Solid V**,  Ghost of Tsushima, Alan Wake II, Control, Balatro, Monster Hunter: World, Metaphor: ReFantazio
 
 ## 클레르 옵스퀴르 33 Expedition
 - JRPG+패링, 쀠땅프랑스, 픽토스루미나, 마엘스탕달, 스프롱남서쪽, 구스타프조연, 20세(on going)
