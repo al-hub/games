@@ -27,7 +27,7 @@
 ## Dave the Diver
 - 낮작살밤초밥(경영), 블루홀, 산소인벤압박, 드론참치, 반쵸업글·상어스시, 어인족문명, 10세
 
-## City of skyline
+## City of Skyline
 - 도시공학과, 백지도시장, RCI수요·예산, 도로망·상하수도·대중교통, 원형교차로·IC설계, 교통체증최종보스, 30세
 
 ## Civilization
