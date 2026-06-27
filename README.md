@@ -1,7 +1,10 @@
 # GAMES
 
+## candidate
+- **The Witcher 3**, Zelda BOTW, TOK, **God of War**, **Sekiro**, **The Last of Us Part II**, It Takes Two, Astro Bot, Dragon Age Inquisition, Overwatch, **Marvel’s Spider-Man 2**
+
 ## 클레르 옵스퀴르 33 Expedition
-- JRPG+패링, 쀠땅프랑스, 픽토스루미나, 마엘스탕달, 스프롱남서쪽, 구스타프조연, 20세
+- JRPG+패링, 쀠땅프랑스, 픽토스루미나, 마엘스탕달, 스프롱남서쪽, 구스타프조연, 20세(on going)
 
 ## BG 3
 - TRPG(CRPG), D&D·일리시드올챙이, 주사위, 포션던지기, 아스테리온소매치기·레이젤은검짱떨구기, 드림가디언황제, 30세
