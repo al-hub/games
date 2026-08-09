@@ -5,7 +5,8 @@
 
 ## 클레르 옵스퀴르 33 Expedition
 - JRPG+패링, 쀠땅프랑스, 픽토스루미나, 마엘스탕달, 스프롱남서쪽, 구스타프조연, 20세(ongoing)
-
+2025, [map](https://ma-nasi.tistory.com/m/1991), [쌍끌이](https://m.youtube.com/watch?v=M45qKSl5-UM&pp=iggCQAE%3D) [노가다](https://youtu.be/Pu_HQJEts_A?si=T_8ivKOaUigHFMM3)
+  
 ## BG 3
 - TRPG(CRPG), D&D·일리시드올챙이, 주사위, 포션던지기, 아스테리온소매치기·레이젤은검짱떨구기, 드림가디언황제, 30세
 
